@@ -24,7 +24,7 @@
   "dependencies": {
     "@docusaurus/logger": "^3.0.0-alpha.0",
     "@docusaurus/utils": "^3.0.0-alpha.0",
-    "commander": "^5.1.0",
+    "commander": "^10.0.0",
     "fs-extra": "^11.1.0",
     "lodash": "^4.17.21",
     "prompts": "^2.4.2",
